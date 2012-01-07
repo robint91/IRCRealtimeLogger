@@ -1,0 +1,10 @@
+d:\documenten\visual studio 2010\Projects\IRCRL\IRCRL\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documenten\visual studio 2010\Projects\IRCRL\IRCRL\obj\x86\Debug\WindowsFormsApplication1.main.resources
+d:\documenten\visual studio 2010\Projects\IRCRL\IRCRL\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\documenten\visual studio 2010\Projects\IRCRL\IRCRL\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\documenten\visual studio 2010\Projects\IRCRL\IRCRL\bin\Debug\IRCRealtimeLogger.exe.config
+d:\documenten\visual studio 2010\Projects\IRCRL\IRCRL\bin\Debug\IRCRealtimeLogger.exe
+d:\documenten\visual studio 2010\Projects\IRCRL\IRCRL\bin\Debug\IRCRealtimeLogger.pdb
+d:\documenten\visual studio 2010\Projects\IRCRL\IRCRL\obj\x86\Debug\IRCRealtimeLogger.Properties.Resources.resources
+d:\documenten\visual studio 2010\Projects\IRCRL\IRCRL\obj\x86\Debug\IRCRealtimeLogger.exe
+d:\documenten\visual studio 2010\Projects\IRCRL\IRCRL\obj\x86\Debug\IRCRealtimeLogger.pdb

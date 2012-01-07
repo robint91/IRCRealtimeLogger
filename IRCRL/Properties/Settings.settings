@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="IRCRealtimeLogger.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="IrcServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">irc.freenode.net</Value>
+    </Setting>
+    <Setting Name="Nick" Type="System.String" Scope="User">
+      <Value Profile="(Default)">robint91_log</Value>
+    </Setting>
+    <Setting Name="Channel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#sparkfun</Value>
+    </Setting>
+    <Setting Name="PachubeKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ZmzBYWUdoBqlsK_34GT-HGavUx5b9L7Nk0rFCug4D1aJz0mhkUX5d9EcB4NtBGYOV8kNOLdYmSuXqMepyuK9aOvfD7X1JERMqfTFp29Ytq0M6XMTqw837tsjIirGWikw</Value>
+    </Setting>
+    <Setting Name="PachubeFeed" Type="System.String" Scope="User">
+      <Value Profile="(Default)">43697</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
