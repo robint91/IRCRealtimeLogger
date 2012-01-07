@@ -1,0 +1,18 @@
+--------------------------------------------------------------------------------
+IRC REALTIME LOGGER
+
+by Robin Theunis 2012
+
+
+IRCRealtimeLogger is a simple .net application that monitors an irc channel and 
+reports back the number of users to pachube. It is build with .net 4.0 and 
+vs2010. 
+
+You need following datastreams on pachube:
+-users
+-voiced
+-ops
+
+--------------------------------------------------------------------------------
+
+
